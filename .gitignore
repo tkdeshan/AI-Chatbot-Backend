@@ -1,0 +1,70 @@
+# Python bytecode files
+*.py[cod]
+__pycache__/
+*.so
+
+# Django migrations
+**/migrations/*
+!**/migrations/__init__.py
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Database files
+*.sqlite3
+
+# Static files and media (if generated)
+static/
+media/
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+.hypothesis/
+
+# Pytest cache
+.pytest_cache/
+
+# Django static files cache
+staticfiles/
+
+# Local settings
+local_settings.py
+
+# macOS files
+.DS_Store
+
+# Files related to Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Node.js (if using npm or Yarn for frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files (if using a build system)
+build/
+dist/
+
+# Docker-related
+docker-compose.override.yml
+docker-compose*.yml
+.dockerignore
+
+# Celery (if using Celery)
+celerybeat-schedule
+celerybeat.pid
