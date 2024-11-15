@@ -7,7 +7,7 @@ This is the backend for an AI-powered chatbot built using **Django**. The backen
 1. Clone the repository:
    
    ```bash
-     git clone https://github.com/Elzian-Agro/AI-Chatbot-Backend.git
+     git clone https://github.com/tkdeshan/AI-Chatbot-Backend.git
 3. Create a virtual environment:
 
     ```bash
