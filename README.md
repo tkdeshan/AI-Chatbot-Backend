@@ -13,15 +13,9 @@ This is the backend for an AI-powered chatbot built using **Django**. The backen
     ```bash
      python -m venv venv
 3. Activate the virtual environment:
-  - On Windows:
 
     ```bash
      venv\Scripts\activate
-
-  - On Linux/macOS:
-
-     ```bash
-     source venv/bin/activate
 4. Install dependencies:
 
     ```bash
