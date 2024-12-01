@@ -1,6 +1,6 @@
 # AI-Chatbot-Backend
 
-This is the backend for an AI-powered chatbot built using **Django**. The backend is responsible for handling requests, processing data, and interacting with the monitoring system to deliver real-time information.
+This project is a backend server for a chatbot application, built using Django and a Simple Language Model (SLM) for text generation. The system is designed to handle user queries, generate meaningful responses, and serve them via API endpoints.
 
 # Setup Instructions
 
